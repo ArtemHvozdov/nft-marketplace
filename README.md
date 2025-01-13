@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Link To Design Maket
+
+https://www.figma.com/design/VJ8g1aq3Eb3rhj2ONgQ3cA/Crypter_-NFT-marketplace-kit-(Copy)?node-id=1555-114849&t=8ySReaOesDeiYDWE-0
